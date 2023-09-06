@@ -6,9 +6,10 @@ class test extends MY_Controller{
 		$this->load->model ( "ajio/testdropshipmodel" );
 	}
 	
-	function download($ordernumber){
+function download($ordernumber){
 echo "test";die;
 echo "hi";die;
+echo "by by";
 }
 
 ?>
