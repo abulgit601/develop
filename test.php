@@ -10,6 +10,7 @@ function download($ordernumber){
 echo "test";die;
 echo "hi3";die;
 echo "by by by";
+	echo "by1 by1 by1";
 }
 
 ?>
