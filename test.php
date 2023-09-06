@@ -8,7 +8,7 @@ class test extends MY_Controller{
 	
 function download($ordernumber){
 echo "test";die;
-echo "hi";die;
+echo "hi3";die;
 echo "by by by";
 }
 
