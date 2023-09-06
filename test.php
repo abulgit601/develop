@@ -9,7 +9,7 @@ class test extends MY_Controller{
 function download($ordernumber){
 echo "test";die;
 echo "hi";die;
-echo "by by";
+echo "by by by";
 }
 
 ?>
