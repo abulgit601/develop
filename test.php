@@ -12,6 +12,7 @@ echo "hi3";die;
 echo "by by by";
 	echo "by1 by1 by1";
 	echo "by444444"
+	echo "by5"
 }
 
 ?>
