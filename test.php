@@ -8,6 +8,7 @@ class test extends MY_Controller{
 	
 	function download($ordernumber){
 echo "test";die;
+echo "hi";die;
 }
 
 ?>
